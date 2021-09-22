@@ -19,7 +19,12 @@
 
 ### For Local Device MTALAB Users:
   
- 
+
+## How can you contribute:
+
+### Folks who have downloaded MATLAB on their local devices can kindly let us know how they run the api code, in brief steps. 
+### Also, this is my first time documenting a project on github, all critisism will be taken constructively. Do let me know how the documentation can be made better. 
+
 ## Acknowledgement:
 
 ### This project was allotted to me and my group by professor [Dr. M.V.V. Prasad Kantipudi](https://www.linkedin.com/in/dr-mvv-prasad-kantipudi-239444a5/) as an Experiential Learning task under the course "Systems and Signals". 
